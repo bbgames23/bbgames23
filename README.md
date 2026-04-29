@@ -107,34 +107,25 @@ about soon.
   <img src="https://img.shields.io/badge/HIGH_SCORES-%E2%97%86%E2%97%86%E2%97%86-E89866?style=flat-square&labelColor=0E1E33" alt="HIGH SCORES" />
 </p>
 
-<table>
-<tr>
-<td valign="top">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api?username=bbgames23&show_icons=true&hide_border=false&bg_color=0E1E33&title_color=5B8DD6&text_color=F4EDE0&icon_color=E89866&border_color=5B8DD6" />
-    <img alt="stats"
-         src="https://github-readme-stats.vercel.app/api?username=bbgames23&show_icons=true&hide_border=false&bg_color=F4EDE0&title_color=0E1E33&text_color=0E1E33&icon_color=5B8DD6&border_color=0E1E33" />
-  </picture>
-</td>
-<td valign="top">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bbgames23&layout=compact&hide_border=false&bg_color=0E1E33&title_color=5B8DD6&text_color=F4EDE0&border_color=5B8DD6" />
-    <img alt="top languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbgames23&layout=compact&hide_border=false&bg_color=F4EDE0&title_color=0E1E33&text_color=0E1E33&border_color=0E1E33" />
-  </picture>
-</td>
-<td valign="top">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=bbgames23&background=0E1E33&stroke=5B8DD6&ring=E89866&fire=E89866&currStreakLabel=5B8DD6&sideLabels=F4EDE0&dates=F4EDE0&currStreakNum=E89866&sideNums=F4EDE0" />
-    <img alt="streak"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=bbgames23&background=F4EDE0&stroke=0E1E33&ring=E89866&fire=E89866&currStreakLabel=0E1E33&sideLabels=0E1E33&dates=0E1E33&currStreakNum=5B8DD6&sideNums=0E1E33" />
-  </picture>
-</td>
-</tr>
-</table>
+<!-- TODO: tweak the categories, bars, and scores below as the studio grows. -->
+<!-- The bar uses 8 cells: '█' for filled, '░' for empty. Width is intentional - 60 chars between the box edges. -->
+<div align="center">
+<pre>
+╔══════════════════════════════════════════════════════════╗
+║                ★  ★   HIGH  SCORES   ★  ★                ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   RANK    PLAYER     CATEGORY           BAR       SCORE  ║
+║   ----    ------     --------           ---       -----  ║
+║   1ST     BB23       GAMES  SHIPPED     ████░░░░    04   ║
+║   2ND     BB23       PROTOTYPES         ██████░░    08   ║
+║   3RD     BB23       WEEKS  WEIRDED     ████████     ∞   ║
+║                                                          ║
+╠══════════════════════════════════════════════════════════╣
+║          ◇   CHALLENGE   THE   LEADERBOARD   ◇           ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
+</div>
 
 &nbsp;
 
