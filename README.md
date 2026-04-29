@@ -47,7 +47,11 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/LEVEL_1-WHO_WE_ARE-5B8DD6?style=flat-square&labelColor=0E1E33" alt="LEVEL 1 — WHO WE ARE" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://img.shields.io/badge/LEVEL_1-WHO_WE_ARE-5B8DD6?style=flat-square&labelColor=0E1E33" />
+  <img src="https://img.shields.io/badge/LEVEL_1-WHO_WE_ARE-E89866?style=flat-square&labelColor=0E1E33" alt="LEVEL 1 — WHO WE ARE" />
+</picture>
 
 <!-- TODO: replace this bio with the studio's own wording -->
 We're **BatchBinary** — a small studio
@@ -79,7 +83,11 @@ in our future projects.
 &nbsp;
 
 <p>
-  <img src="https://img.shields.io/badge/LEVEL_3-TOOLBOX-5B8DD6?style=flat-square&labelColor=0E1E33" alt="LEVEL 3 — TOOLBOX" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://img.shields.io/badge/LEVEL_3-TOOLBOX-5B8DD6?style=flat-square&labelColor=0E1E33" />
+    <img src="https://img.shields.io/badge/LEVEL_3-TOOLBOX-E89866?style=flat-square&labelColor=0E1E33" alt="LEVEL 3 — TOOLBOX" />
+  </picture>
 </p>
 
 <p align="center">
