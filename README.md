@@ -65,20 +65,12 @@ build it.
 
 <img src="https://img.shields.io/badge/LEVEL_2-NOW_BUILDING-E89866?style=flat-square&labelColor=0E1E33" alt="LEVEL 2 — NOW BUILDING" />
 
-<!-- TODO: drop a real preview at assets/now-building.png and update src= below -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://placehold.co/360x200/0E1E33/F4EDE0?text=%5B+project+preview+%5D&font=montserrat" />
-    <img alt="Now building — preview placeholder" width="100%"
-         src="https://placehold.co/360x200/0E1E33/F4EDE0?text=%5B+project+preview+%5D&font=montserrat" />
-  </picture>
-</p>
+**Cloudflare Image Generation**
 
-<!-- TODO: project title + 1-line blurb -->
-**Currently in the workshop** — a mix of
-client builds and side experiments. More
-to share when they're ready to play with.
+Sometimes our most recent work is building
+foundations for the future. This internal
+image generator will go above and beyond
+in our future projects.
 
 </td>
 </tr>
