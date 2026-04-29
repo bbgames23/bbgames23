@@ -91,7 +91,7 @@ about soon.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,vscode,js,html,css,python,phaser" alt="tech stack" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,vscode,js,html,css,python" alt="tech stack" />
   </a>
 </p>
 
