@@ -140,6 +140,10 @@ in our future projects.
   <a href="https://uk.pinterest.com/batchbinary23/">
     <img src="https://img.shields.io/badge/Pinterest-0E1E33?style=flat-square&logo=pinterest&logoColor=F4EDE0&labelColor=E89866" alt="Pinterest" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/batch-binary/?viewAsMember=true">
+    <img src="https://img.shields.io/badge/LinkedIn-0E1E33?style=flat-square&logo=linkedin&logoColor=F4EDE0&labelColor=E89866" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
