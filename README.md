@@ -84,7 +84,7 @@ in our future projects.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,vscode,js,html,css,python" alt="tech stack" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,vscode,github,apple,js,html,css,python,photoshop,illustrator" alt="tech stack" />
   </a>
 </p>
 
@@ -120,10 +120,17 @@ in our future projects.
   <sub>◇&nbsp;&nbsp;I N S E R T &nbsp; C O I N &nbsp; T O &nbsp; F O L L O W&nbsp;&nbsp;◇</sub>
 </p>
 
-<!-- TODO: replace href with the studio's actual X / Twitter URL -->
 <p align="center">
-  <a href="https://x.com/bbgames23">
+  <a href="https://x.com/BatchBinary23/">
     <img src="https://img.shields.io/badge/Follow_on_X-0E1E33?style=flat-square&logo=x&logoColor=F4EDE0&labelColor=E89866" alt="Follow on X" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/batch.binary/">
+    <img src="https://img.shields.io/badge/Instagram-0E1E33?style=flat-square&logo=instagram&logoColor=F4EDE0&labelColor=E89866" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://uk.pinterest.com/batchbinary23/">
+    <img src="https://img.shields.io/badge/Pinterest-0E1E33?style=flat-square&logo=pinterest&logoColor=F4EDE0&labelColor=E89866" alt="Pinterest" />
   </a>
 </p>
 
