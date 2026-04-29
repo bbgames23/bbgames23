@@ -34,9 +34,9 @@
   <a href="https://github.com/bbgames23">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-              srcset="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2800&pause=900&color=F4EDE0&center=true&vCenter=true&width=520&lines=Indie+Game+Studio;We+build+weird+games;Game+Devs+at+Work" />
+              srcset="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2800&pause=900&color=F4EDE0&center=true&vCenter=true&width=560&lines=Builders+of+Weird+Web+Things;Games%2C+Sites+%26+Side+Quests;Powered+by+Coffee+%26+Curiosity;Did+we+make+that%3F" />
       <img alt="typing animation"
-           src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2800&pause=900&color=0E1E33&center=true&vCenter=true&width=520&lines=Indie+Game+Studio;We+build+weird+games;Game+Devs+at+Work" />
+           src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2800&pause=900&color=0E1E33&center=true&vCenter=true&width=560&lines=Builders+of+Weird+Web+Things;Games%2C+Sites+%26+Side+Quests;Powered+by+Coffee+%26+Curiosity;Did+we+make+that%3F" />
     </picture>
   </a>
 </p>
@@ -50,34 +50,35 @@
 <img src="https://img.shields.io/badge/LEVEL_1-WHO_WE_ARE-5B8DD6?style=flat-square&labelColor=0E1E33" alt="LEVEL 1 — WHO WE ARE" />
 
 <!-- TODO: replace this bio with the studio's own wording -->
-We're **BatchBinary** — a small indie studio
-making short, weird, hand-crafted games for
-the web and beyond. We work mostly in
-**GDevelop** and lightweight **JS / TS**
-engines like **Phaser** and **Three.js**.
+We're **BatchBinary** — a small studio
+building **games**, side projects and
+**client work** for the web. Standard
+ingredients: **JavaScript**, **HTML**,
+**CSS**, and a healthy curiosity for
+*"wait, can we do that?"*
 
-If it loads in a browser and makes someone
-laugh, we're probably already prototyping it.
+If it loads in a browser, we'll happily
+build it.
 
 </td>
 <td width="50%" valign="top">
 
 <img src="https://img.shields.io/badge/LEVEL_2-NOW_BUILDING-E89866?style=flat-square&labelColor=0E1E33" alt="LEVEL 2 — NOW BUILDING" />
 
-<!-- TODO: drop a real cover at assets/now-building.png and update src= below -->
+<!-- TODO: drop a real preview at assets/now-building.png and update src= below -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://placehold.co/360x200/0E1E33/F4EDE0?text=%5B+game+cover+art+%5D&font=montserrat" />
-    <img alt="Now building — cover art placeholder" width="100%"
-         src="https://placehold.co/360x200/0E1E33/F4EDE0?text=%5B+game+cover+art+%5D&font=montserrat" />
+            srcset="https://placehold.co/360x200/0E1E33/F4EDE0?text=%5B+project+preview+%5D&font=montserrat" />
+    <img alt="Now building — preview placeholder" width="100%"
+         src="https://placehold.co/360x200/0E1E33/F4EDE0?text=%5B+project+preview+%5D&font=montserrat" />
   </picture>
 </p>
 
 <!-- TODO: project title + 1-line blurb -->
-**Untitled Project #001** &nbsp;—&nbsp; a tiny
-browser game about something we'll tell you
-about soon.
+**Currently in the workshop** — a mix of
+client builds and side experiments. More
+to share when they're ready to play with.
 
 </td>
 </tr>
@@ -117,9 +118,9 @@ about soon.
 ║                                                          ║
 ║   RANK    PLAYER     CATEGORY           BAR       SCORE  ║
 ║   ----    ------     --------           ---       -----  ║
-║   1ST     BB23       GAMES  SHIPPED     ████░░░░    04   ║
-║   2ND     BB23       PROTOTYPES         ██████░░    08   ║
-║   3RD     BB23       WEEKS  WEIRDED     ████████     ∞   ║
+║   1ST     BB23       BUILDS SHIPPED     ██████░░    12   ║
+║   2ND     BB23       HAPPY  CLIENTS     ████░░░░    08   ║
+║   3RD     BB23       TABS    OPEN       ████████     ∞   ║
 ║                                                          ║
 ╠══════════════════════════════════════════════════════════╣
 ║          ◇   CHALLENGE   THE   LEADERBOARD   ◇           ║
