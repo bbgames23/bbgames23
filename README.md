@@ -88,12 +88,6 @@ in our future projects.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-0E1E33?style=flat-square&logo=anthropic&logoColor=F4EDE0&labelColor=E89866" alt="Claude" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GDevelop-0E1E33?style=flat-square&labelColor=E89866&logoColor=F4EDE0" alt="GDevelop" />
-</p>
-
 &nbsp;
 
 <p>
