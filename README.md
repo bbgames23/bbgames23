@@ -12,7 +12,7 @@
     Light : cream bg, navy text, blue/coral accents (slightly darker for legibility on cream)
     Dark  : navy bg matching the logo, cream text, brighter blue/coral accents
 
-  TODOs are marked with <!-- TODO: ... --> through the file.
+  TODOs are marked with <!-- TODO: ... -- through the file.
 -->
 
 <p align="center"><sub>★&nbsp;&nbsp;N O W &nbsp; P L A Y I N G&nbsp;&nbsp;★</sub></p>
@@ -91,8 +91,12 @@ about soon.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,threejs,phaser,html,css,git,github,vscode" alt="tech stack" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,vscode,js,html,css,python,phaser" alt="tech stack" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-0E1E33?style=flat-square&logo=anthropic&logoColor=F4EDE0&labelColor=E89866" alt="Claude" />
   &nbsp;
   <img src="https://img.shields.io/badge/GDevelop-0E1E33?style=flat-square&labelColor=E89866&logoColor=F4EDE0" alt="GDevelop" />
 </p>
