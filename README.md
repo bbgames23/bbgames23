@@ -23,7 +23,7 @@
     <source media="(prefers-color-scheme: dark)"
             srcset="https://capsule-render.vercel.app/api?type=waving&color=5B8DD6&height=200&section=header&text=BatchBinary&fontColor=0E1E33&fontSize=72&fontAlignY=40&animation=fadeIn" />
     <img alt="BatchBinary"
-         src="https://capsule-render.vercel.app/api?type=waving&color=0E1E33&height=200&section=header&text=BatchBinary&fontColor=F4EDE0&fontSize=72&fontAlignY=40&animation=fadeIn" />
+         src="https://capsule-render.vercel.app/api?type=waving&color=E89866&height=200&section=header&text=BatchBinary&fontColor=0E1E33&fontSize=72&fontAlignY=40&animation=fadeIn" />
   </picture>
 </p>
 
@@ -145,8 +145,8 @@ in our future projects.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://capsule-render.vercel.app/api?type=waving&color=E89866&height=120&section=footer" />
+            srcset="https://capsule-render.vercel.app/api?type=waving&color=5B8DD6&height=120&section=footer" />
     <img alt=""
-         src="https://capsule-render.vercel.app/api?type=waving&color=0E1E33&height=120&section=footer" />
+         src="https://capsule-render.vercel.app/api?type=waving&color=E89866&height=120&section=footer" />
   </picture>
 </p>
